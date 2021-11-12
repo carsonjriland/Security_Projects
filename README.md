@@ -6,4 +6,6 @@ This is keylogger I programmed using python. When running, every 60 seconds it w
 I chose to put it together for educational purposes only to work on my python understanding. 
 My next step for this project is to use the pyinstaller package to turn the .py code into a .exe for further experience. 
 
-Resources: https://www.thepythoncode.com/article/write-a-keylogger-python / https://www.thepythoncode.com/article/building-python-files-into-stand-alone-executables-using-pyinstaller
+-Resources-                                                    
+https://www.thepythoncode.com/article/write-a-keylogger-python                
+https://www.thepythoncode.com/article/building-python-files-into-stand-alone-executables-using-pyinstaller
